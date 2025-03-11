@@ -3,6 +3,11 @@ a {
   color: black;
 }
 
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
 .nav {
   display: flex;
   justify-content: center;
